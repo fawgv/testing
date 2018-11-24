@@ -109,6 +109,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="Infrastructure\ChallengeHelpers.cs" />
     <Compile Include="Infrastructure\Firebase.cs" />
     <Compile Include="Infrastructure\FirebaseActions.cs" />

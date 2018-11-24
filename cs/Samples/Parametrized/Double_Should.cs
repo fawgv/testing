@@ -32,5 +32,8 @@ namespace Samples.Parametrized
 		{
 			return double.Parse(input, CultureInfo.InvariantCulture);
 		}
+
+		
+
 	}
 }
